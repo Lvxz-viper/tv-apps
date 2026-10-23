@@ -4,12 +4,12 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 13,
-      "versionName": "6.0.1",
+      "versionCode": 14,
+      "versionName": "6.0.2",
       "notes_ar": "التحديثات تتثبت الحين مباشرة من داخل التلفزيون بدون شاشة التأكيد المعطلة",
       "notes_en": "Updates now install directly on the TV, bypassing the broken confirmation screen",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.0.1.apk",
-      "size": 6994072
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.0.2.apk",
+      "size": 7514264
     },
     {
       "package": "com.mohamed.ufuq",
