@@ -4,22 +4,22 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 11,
-      "versionName": "5.6",
-      "notes_ar": "زر «البحث عن تحديثات الآن» صار يوضّح إنه يبحث، ويعرض النتيجة ووقت آخر فحص.",
-      "notes_en": "“Check for updates now” now shows progress, the result and the last check time.",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-5.6.apk",
-      "size": 7497880
+      "versionCode": 12,
+      "versionName": "6.0",
+      "notes_ar": "أيقونات ثلاثية الأبعاد تطفو وتلمع، أصوات للواجهة، ارتداد عند الحافة، وضع فاتح وداكن، وصف «تابع المشاهدة» من أُفُق في الرئيسية.",
+      "notes_en": "Floating 3D icons with glare, interface sounds, edge bounce, light/dark mode, and an Up Next row from Ufuq.",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.0.apk",
+      "size": 7506072
     },
     {
       "package": "com.mohamed.ufuq",
       "name_ar": "أُفُق",
       "name_en": "Ufuq",
-      "versionCode": 6,
-      "versionName": "3.2.1",
-      "notes_ar": "إصلاح صوت قنوات MP2 والتعليق، إعدادات المشغل والترجمة.",
-      "notes_en": "MP2 audio and stutter fix, player and subtitle settings.",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.2.1.apk",
+      "versionCode": 7,
+      "versionName": "3.3",
+      "notes_ar": "يشارك «تابع المشاهدة» مع رُكن، وتقدر تكمّل أي فيلم أو حلقة مباشرة من الرئيسية.",
+      "notes_en": "Shares Up Next with Rukn so you can resume any title straight from Home.",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.3.apk",
       "size": 1446618
     }
   ]
