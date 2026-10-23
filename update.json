@@ -15,11 +15,11 @@
       "package": "com.mohamed.ufuq",
       "name_ar": "أُفُق",
       "name_en": "Ufuq",
-      "versionCode": 7,
-      "versionName": "3.3",
-      "notes_ar": "يشارك «تابع المشاهدة» مع رُكن، وتقدر تكمّل أي فيلم أو حلقة مباشرة من الرئيسية.",
-      "notes_en": "Shares Up Next with Rukn so you can resume any title straight from Home.",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.3.apk",
+      "versionCode": 8,
+      "versionName": "3.3.1",
+      "notes_ar": "تحديث تجريبي لاختبار التثبيت المباشر من التلفزيون",
+      "notes_en": "Test update to try direct in-TV installs",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.3.1.apk",
       "size": 1446618
     }
   ]
