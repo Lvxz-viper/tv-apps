@@ -1,0 +1,26 @@
+{
+  "apps": [
+    {
+      "package": "com.mohamed.home",
+      "name_ar": "رُكن",
+      "name_en": "Rukn",
+      "versionCode": 10,
+      "versionName": "5.5",
+      "notes_ar": "تحديث التطبيقات من التلفزيون مباشرة، التاريخ الهجري والميلادي في الرئيسية، إصلاحات الإعدادات.",
+      "notes_en": "In-app updates from GitHub, Hijri/Gregorian date on Home, settings fixes.",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-5.5.apk",
+      "size": 7493784
+    },
+    {
+      "package": "com.mohamed.ufuq",
+      "name_ar": "أُفُق",
+      "name_en": "Ufuq",
+      "versionCode": 6,
+      "versionName": "3.2.1",
+      "notes_ar": "إصلاح صوت قنوات MP2 والتعليق، إعدادات المشغل والترجمة.",
+      "notes_en": "MP2 audio and stutter fix, player and subtitle settings.",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.2.1.apk",
+      "size": 1446618
+    }
+  ]
+}
