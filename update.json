@@ -4,12 +4,12 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 10,
-      "versionName": "5.5",
-      "notes_ar": "تحديث التطبيقات من التلفزيون مباشرة، التاريخ الهجري والميلادي في الرئيسية، إصلاحات الإعدادات.",
-      "notes_en": "In-app updates from GitHub, Hijri/Gregorian date on Home, settings fixes.",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-5.5.apk",
-      "size": 7493784
+      "versionCode": 11,
+      "versionName": "5.6",
+      "notes_ar": "زر «البحث عن تحديثات الآن» صار يوضّح إنه يبحث، ويعرض النتيجة ووقت آخر فحص.",
+      "notes_en": "“Check for updates now” now shows progress, the result and the last check time.",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-5.6.apk",
+      "size": 7497880
     },
     {
       "package": "com.mohamed.ufuq",
