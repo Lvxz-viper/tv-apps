@@ -4,11 +4,11 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 15,
-      "versionName": "6.1",
+      "versionCode": 16,
+      "versionName": "6.1.1",
       "notes_ar": "أصوات اختيار ورجوع جديدة، حركة أيقونات هادئة مع خيار ثلاثي الأبعاد أو بدون، وتحكم منفصل في كل صوت",
       "notes_en": "New select/back sounds, calm icon motion (3D or none optional), separate sound toggles",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.1.apk",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.1.1.apk",
       "size": 7514264
     },
     {
