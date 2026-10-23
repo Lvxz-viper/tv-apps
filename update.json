@@ -4,12 +4,12 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 12,
-      "versionName": "6.0",
-      "notes_ar": "أيقونات ثلاثية الأبعاد تطفو وتلمع، أصوات للواجهة، ارتداد عند الحافة، وضع فاتح وداكن، وصف «تابع المشاهدة» من أُفُق في الرئيسية.",
-      "notes_en": "Floating 3D icons with glare, interface sounds, edge bounce, light/dark mode, and an Up Next row from Ufuq.",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.0.apk",
-      "size": 7506072
+      "versionCode": 13,
+      "versionName": "6.0.1",
+      "notes_ar": "التحديثات تتثبت الحين مباشرة من داخل التلفزيون بدون شاشة التأكيد المعطلة",
+      "notes_en": "Updates now install directly on the TV, bypassing the broken confirmation screen",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.0.1.apk",
+      "size": 6994072
     },
     {
       "package": "com.mohamed.ufuq",
