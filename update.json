@@ -4,11 +4,11 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 19,
-      "versionName": "6.2.2",
-      "notes_ar": "أرقام عربية في لوحة المعلومات، ومصدر أقوى لمباريات فرقك",
-      "notes_en": "Arabic digits on the info board, sturdier team matches",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.2.apk",
+      "versionCode": 20,
+      "versionName": "6.2.3",
+      "notes_ar": "دوري أبطال أوروبا وآسيا وأفريقيا في لوحة المعلومات",
+      "notes_en": "UEFA, AFC and CAF Champions League on the info board",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.3.apk",
       "size": 7964884
     },
     {
