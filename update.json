@@ -4,11 +4,11 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 17,
-      "versionName": "6.2",
-      "notes_ar": "شاشة توقف جديدة «لوحة المعلومات»: الساعة والتاريخ الهجري والطقس ومواقيت الصلاة وآية اليوم والأذكار ومباريات فرقك",
-      "notes_en": "New \"Info board\" screensaver: clock, Hijri date, weather, prayer times, verse of the day, remembrance and your teams' matches",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.apk",
+      "versionCode": 18,
+      "versionName": "6.2.1",
+      "notes_ar": "ترتيب لوحة المعلومات: الساعة والتاريخ كاملين بدون قص أو تداخل",
+      "notes_en": "Info board layout fixed: full clock and date, no overlaps",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.1.apk",
       "size": 7964884
     },
     {
