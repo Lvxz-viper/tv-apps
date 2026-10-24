@@ -4,23 +4,26 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 16,
-      "versionName": "6.1.1",
-      "notes_ar": "أصوات اختيار ورجوع جديدة، حركة أيقونات هادئة مع خيار ثلاثي الأبعاد أو بدون، وتحكم منفصل في كل صوت",
-      "notes_en": "New select/back sounds, calm icon motion (3D or none optional), separate sound toggles",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.1.1.apk",
-      "size": 7514264
+      "versionCode": 17,
+      "versionName": "6.2",
+      "notes_ar": "شاشة توقف جديدة «لوحة المعلومات»: الساعة والتاريخ الهجري والطقس ومواقيت الصلاة وآية اليوم والأذكار ومباريات فرقك",
+      "notes_en": "New \"Info board\" screensaver: clock, Hijri date, weather, prayer times, verse of the day, remembrance and your teams' matches",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.apk",
+      "size": 7964884
     },
     {
       "package": "com.mohamed.ufuq",
       "name_ar": "أُفُق",
       "name_en": "Ufuq",
-      "versionCode": 8,
-      "versionName": "3.3.1",
-      "notes_ar": "تحديث تجريبي لاختبار التثبيت المباشر من التلفزيون",
-      "notes_en": "Test update to try direct in-TV installs",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.3.1.apk",
-      "size": 1446618
+      "versionCode": 9,
+      "versionName": "3.4",
+      "notes_ar": "إصلاح البحث الصوتي: الكلام يظهر وأنت تتكلم ويبحث مباشرة",
+      "notes_en": "Voice search fixed: words appear as you speak and search right away",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/ufuq-3.4.apk",
+      "size": 1450714,
+      "grants": [
+        "android.permission.RECORD_AUDIO"
+      ]
     }
   ]
 }
