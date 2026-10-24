@@ -4,12 +4,12 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 20,
-      "versionName": "6.2.3",
-      "notes_ar": "دوري أبطال أوروبا وآسيا وأفريقيا في لوحة المعلومات",
-      "notes_en": "UEFA, AFC and CAF Champions League on the info board",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.3.apk",
-      "size": 7964884
+      "versionCode": 21,
+      "versionName": "6.2.4",
+      "notes_ar": "إصلاح التنقل: الأسهم تتحرك داخل الصفحة ولا تقفز للشريط العلوي",
+      "notes_en": "Navigation fix: arrows stay inside the page instead of jumping to the top bar",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.4.apk",
+      "size": 7968980
     },
     {
       "package": "com.mohamed.ufuq",
