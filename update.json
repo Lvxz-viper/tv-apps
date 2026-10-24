@@ -4,11 +4,11 @@
       "package": "com.mohamed.home",
       "name_ar": "رُكن",
       "name_en": "Rukn",
-      "versionCode": 18,
-      "versionName": "6.2.1",
-      "notes_ar": "ترتيب لوحة المعلومات: الساعة والتاريخ كاملين بدون قص أو تداخل",
-      "notes_en": "Info board layout fixed: full clock and date, no overlaps",
-      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.1.apk",
+      "versionCode": 19,
+      "versionName": "6.2.2",
+      "notes_ar": "أرقام عربية في لوحة المعلومات، ومصدر أقوى لمباريات فرقك",
+      "notes_en": "Arabic digits on the info board, sturdier team matches",
+      "url": "https://raw.githubusercontent.com/Lvxz-viper/tv-apps/main/apks/rukn-6.2.2.apk",
       "size": 7964884
     },
     {
